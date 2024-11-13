@@ -63,7 +63,7 @@ Examples of these files are provided.
 
 ### Market Caps.csv
 - Columns: Stock Ticker
-- Rows: Market Cap from proper month
+- Rows: Market Cap from the proper month
 
 
 ## Methodology
