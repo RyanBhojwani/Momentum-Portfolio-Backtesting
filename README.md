@@ -1,7 +1,7 @@
 # Momentum-Portfolio-Backtesting
 
 ## Overview
-This project provides a backtesting framework to evaluate the performance of momentum-based portfolio strategies. Using historical stock returns, momentum scores, and market capitalizations, the model selects a portfolio of top-performing stocks each period. It then calculates returns, risk, turnover, and other performance metrics under different weighting schemes and rebalance frequencies.
+This project provides a backtesting framework to evaluate the performance of momentum-based portfolio strategies. Using historical stock returns, momentum scores, and market capitalizations, the model selects a portfolio of the highest momentum stocks each period. It then calculates returns, risk, turnover, and other performance metrics under different weighting schemes and rebalance frequencies.
 
 ## Features
 
