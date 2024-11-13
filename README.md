@@ -79,7 +79,7 @@ Examples of these files are provided.
   - The backtest computes key performance metrics such as:
     - Compound Annual Growth Rate (CAGR): The average annual return over the backtest period.
     - Annualized Standard Deviation: A measure of the portfolio's risk.
-    - Portfolio Turnover: The rate at which assets are bought and sold within the portfolio.
+    - Portfolio Turnover: The amount of the portfolio that changes each year on average over the backtest period.
     - Sharpe Ratio: A risk-adjusted performance metric.
 
 ## Areas for Enhancement
